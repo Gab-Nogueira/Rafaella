@@ -137,6 +137,23 @@ footer{
   50%{transform:scale(1.05);}
   100%{transform:scale(1);}
 }
+  .foto-amor{
+  width:140px;
+  height:140px;
+  margin:20px auto 0;
+  border-radius:50%;
+  overflow:hidden;
+  box-shadow:0 10px 25px rgba(0,0,0,.25);
+  border:4px solid rgba(255,255,255,.6);
+  animation:fadeUp 1.2s ease;
+}
+
+.foto-amor img{
+  width:100%;
+  height:100%;
+  object-fit:cover;
+}
+
 </style>
 </head>
 
@@ -147,6 +164,10 @@ footer{
 </audio>
 
 <div class="music-btn" onclick="toggleMusic()">🎶</div>
+
+<div class="foto-amor">
+  <img src="IMG_7799.jpg" alt="Nós dois 💖">
+</div>
 
 <header>
   <h1>Rafaella 💕</h1>
