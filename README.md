@@ -165,15 +165,16 @@ footer{
 
 <div class="music-btn" onclick="toggleMusic()">🎶</div>
 
-<div class="foto-amor">
-  <img src="Rafaella/IMG_7799.jpg" alt="Nós dois 💖">
-</div>
+
+
 
 <header>
   <h1>Rafaella 💕</h1>
   <p>200 motivos pra eu te amar… e mesmo assim ainda faltam palavras.</p>
 </header>
-
+<div class="foto-amor">
+  <img src="IMG_7799.jpg" alt="Meu amor 💖">
+</div>
 <div class="container">
   <div class="card contador">
     💖 <span id="contador">0</span> motivos  
