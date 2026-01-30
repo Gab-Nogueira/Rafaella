@@ -164,9 +164,6 @@ footer{
 
 <div class="music-btn" onclick="toggleMusic()">🎶</div>
 
-
-
-
 <header>
   <h1>Rafaella 💕</h1>
   <p>200 motivos pra eu te amar… e mesmo assim ainda faltam palavras.</p>
