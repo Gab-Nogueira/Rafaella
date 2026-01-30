@@ -137,7 +137,7 @@ footer{
   50%{transform:scale(1.05);}
   100%{transform:scale(1);}
 }
-  .foto-amor{
+.foto-amor{
   width:140px;
   height:140px;
   margin:20px auto 0;
@@ -145,7 +145,6 @@ footer{
   overflow:hidden;
   box-shadow:0 10px 25px rgba(0,0,0,.25);
   border:4px solid rgba(255,255,255,.6);
-  animation:fadeUp 1.2s ease;
 }
 
 .foto-amor img{
