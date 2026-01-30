@@ -166,7 +166,7 @@ footer{
 <div class="music-btn" onclick="toggleMusic()">🎶</div>
 
 <div class="foto-amor">
-  <img src="IMG_7799.jpg" alt="Nós dois 💖">
+  <img src="Rafaella/IMG_7799.jpg" alt="Nós dois 💖">
 </div>
 
 <header>
